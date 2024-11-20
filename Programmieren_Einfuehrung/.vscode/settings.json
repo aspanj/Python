@@ -1,0 +1,11 @@
+{
+    "python.analysis.autoImportCompletions": true,
+    // Controls the font family.
+    "editor.fontFamily": "JetBrains Mono",
+    // "editor.fontFamily": "Fira Code",
+    // Controls the font size.
+    "editor.fontSize": 14,
+    "editor.codeLensFontFamily": "",
+    "editor.inlayHints.fontFamily": ""
+
+}
